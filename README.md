@@ -19,7 +19,8 @@ This TicTacToe game is a simple, text-based version of the classic game implemen
 3. Players will take turns to input their move in the format `row,col` - for example, `1,3` for row 1, column 3.
 4. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
 
-![Gameplay Video](play.mp4)
+   
+https://github.com/emrecengdev/TicTacToe-python/assets/76089961/7d561c8a-8efc-4b6f-a45e-7c1e77b66a1f
 
 ## Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -28,4 +29,8 @@ Contributions are welcome! For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
+
+
+https://github.com/emrecengdev/TicTacToe-python/assets/76089961/7d561c8a-8efc-4b6f-a45e-7c1e77b66a1f
 
