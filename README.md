@@ -7,7 +7,7 @@ This TicTacToe game is a simple, text-based version of the classic game implemen
 
 ## Live Preview
 
-[Can be viewed via Replit.](https://replit.com/@VJGIELILLUWAN/TicTacToe-python?v=1)
+[Can be viewed via Replit.](https://replit.com/@emreceng/TicTacToe-python?v=1)
 
 ## Installation
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/tictactoe-python.git`.
